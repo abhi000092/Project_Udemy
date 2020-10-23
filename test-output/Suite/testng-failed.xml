@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" parallel="none">
+  <test name="Test(failed)" parallel="none">
+    <classes>
+      <class name="Udemy.TC2">
+        <methods>
+          <include name="udemy_TC2"/>
+          <include name="basePageNavigation"/>
+        </methods>
+      </class> <!-- Udemy.TC2 -->
+      <class name="Udemy.TC1">
+        <methods>
+          <include name="udemy_TC1"/>
+          <include name="basePageNavigation"/>
+        </methods>
+      </class> <!-- Udemy.TC1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

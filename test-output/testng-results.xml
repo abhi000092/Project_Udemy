@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="65183" started-at="2020-10-23T19:24:23 IST" finished-at="2020-10-23T19:25:28 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="36678" started-at="2020-10-23T19:24:23 IST" finished-at="2020-10-23T19:24:59 IST">
+      <class name="Udemy.TC1">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Udemy.TC1@7494e528]" name="basePageNavigation" is-config="true" duration-ms="7788" started-at="2020-10-23T19:24:23 IST" finished-at="2020-10-23T19:24:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="udemy_TC1()[pri:0, instance:Udemy.TC1@7494e528]" name="udemy_TC1" duration-ms="23716" started-at="2020-10-23T19:24:30 IST" finished-at="2020-10-23T19:24:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- udemy_TC1 -->
+        <test-method status="PASS" signature="close()[pri:0, instance:Udemy.TC1@7494e528]" name="close" is-config="true" duration-ms="5143" started-at="2020-10-23T19:24:54 IST" finished-at="2020-10-23T19:24:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- Udemy.TC1 -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="28425" started-at="2020-10-23T19:24:59 IST" finished-at="2020-10-23T19:25:28 IST">
+      <class name="Udemy.TC2">
+        <test-method status="PASS" signature="basePageNavigation()[pri:0, instance:Udemy.TC2@53f65459]" name="basePageNavigation" is-config="true" duration-ms="8983" started-at="2020-10-23T19:24:59 IST" finished-at="2020-10-23T19:25:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+        <test-method status="PASS" signature="udemy_TC2()[pri:0, instance:Udemy.TC2@53f65459]" name="udemy_TC2" duration-ms="13640" started-at="2020-10-23T19:25:08 IST" finished-at="2020-10-23T19:25:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- udemy_TC2 -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:Udemy.TC2@53f65459]" name="quit" is-config="true" duration-ms="5796" started-at="2020-10-23T19:25:22 IST" finished-at="2020-10-23T19:25:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- Udemy.TC2 -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="4" started-at="2020-10-23T19:25:28 IST" finished-at="2020-10-23T19:25:28 IST">
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
